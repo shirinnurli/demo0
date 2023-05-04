@@ -1,0 +1,6 @@
+Total clients served : 4
+Average service time : 3.75
+Peak hour : 25
+Maximum clients at a time : 4
+Clients interval : 1.0
+Service interval : 3.75
